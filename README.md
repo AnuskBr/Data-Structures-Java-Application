@@ -73,7 +73,7 @@ The project follows a **Waterfall Model** for planning and **Agile Paradigm** fo
 
 ## Documentation
 
-For more information, check the detailed [project documentation in Romanian](./Documentatie_Proiect_ISW_.pdf).
+For more information, check the detailed [project documentation in Romanian](./Documentatie_Proiect_ISW.pdf).
 
 ## License
 
